@@ -1,0 +1,10 @@
+{"version":3,
+ "file":
+ "/Users/akiva/Code/projects/subwave/resources/public/scripts/subwave/cljs/core.js",
+ "sources":["core.cljs"],
+ "lineCount":9,
+ "mappings":
+ ";AAAA;;AAEA,AAACA;AAED,wBAAA,mBAAA,3CAAMC,sCAAKC,EAAEC,GACX,QAAGD,IAAEC;;AAEP,YAAA,ZAAGC,2BAA+B,gCAAA,IAAA,pCAACH",
+ "names":
+ ["cljs.core/enable-console-print!", "subwave.cljs.core/foo", "a", "b",
+  "js/console"]}
